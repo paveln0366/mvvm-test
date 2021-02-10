@@ -1,4 +1,4 @@
-package com.example.testemployees.data;
+package com.example.mvvm_test.data;
 
 import android.content.Context;
 
@@ -6,7 +6,7 @@ import androidx.room.Database;
 import androidx.room.Room;
 import androidx.room.RoomDatabase;
 
-import com.example.testemployees.pojo.Employee;
+import com.example.mvvm_test.pojo.Employee;
 
 @Database(entities = {Employee.class}, version = 2, exportSchema = false)
 public abstract class AppDatabase extends RoomDatabase {

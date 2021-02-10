@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Test Employees</string>
+    <string name="app_name">MVVM Test</string>
     <string name="label_name">Имя:</string>
     <string name="label_last_name">Фамилия:</string>
 </resources>

@@ -1,13 +1,9 @@
-package com.example.testemployees.converters;
+package com.example.mvvm_test.converters;
 
 import androidx.room.TypeConverter;
 
-import com.example.testemployees.pojo.Specialty;
+import com.example.mvvm_test.pojo.Specialty;
 import com.google.gson.Gson;
-
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
 
 import java.util.ArrayList;
 import java.util.List;

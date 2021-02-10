@@ -1,4 +1,4 @@
-package com.example.testemployees.screens.employees;
+package com.example.mvvm_test.screens.employees;
 
 import android.app.Application;
 import android.os.AsyncTask;
@@ -8,11 +8,11 @@ import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 
-import com.example.testemployees.api.ApiFactory;
-import com.example.testemployees.api.ApiService;
-import com.example.testemployees.data.AppDatabase;
-import com.example.testemployees.pojo.Employee;
-import com.example.testemployees.pojo.EmployeeResponse;
+import com.example.mvvm_test.api.ApiFactory;
+import com.example.mvvm_test.api.ApiService;
+import com.example.mvvm_test.data.AppDatabase;
+import com.example.mvvm_test.pojo.Employee;
+import com.example.mvvm_test.pojo.EmployeeResponse;
 
 import java.util.List;
 

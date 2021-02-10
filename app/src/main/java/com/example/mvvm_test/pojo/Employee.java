@@ -1,10 +1,10 @@
-package com.example.testemployees.pojo;
+package com.example.mvvm_test.pojo;
 
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
 import androidx.room.TypeConverters;
 
-import com.example.testemployees.converters.Converter;
+import com.example.mvvm_test.converters.Converter;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 

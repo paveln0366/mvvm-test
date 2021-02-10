@@ -1,4 +1,4 @@
-package com.example.testemployees.adapters;
+package com.example.mvvm_test.adapters;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -8,8 +8,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.testemployees.R;
-import com.example.testemployees.pojo.Employee;
+import com.example.mvvm_test.R;
+import com.example.mvvm_test.pojo.Employee;
 
 import java.util.List;
 

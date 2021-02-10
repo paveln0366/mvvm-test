@@ -1,4 +1,4 @@
-package com.example.testemployees.data;
+package com.example.mvvm_test.data;
 
 import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
@@ -6,7 +6,7 @@ import androidx.room.Insert;
 import androidx.room.OnConflictStrategy;
 import androidx.room.Query;
 
-import com.example.testemployees.pojo.Employee;
+import com.example.mvvm_test.pojo.Employee;
 
 import java.util.List;
 
